@@ -1,2 +1,2 @@
 # Ibrahim
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrala&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrala&layout=compact&langs_count=10)
