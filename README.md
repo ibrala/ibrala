@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://github-readme-stats-alpha-lilac-31.vercel.app/api/top-langs/?username=ibrala&layout=compact&langs_count=10&theme=dark&bg_color=0d1117&hide_border=true&card_width=380&v=18" alt="Most Used Languages" />
-</p>
+<img width="100%" src="assets/languages.png" alt="Most used languages" />
