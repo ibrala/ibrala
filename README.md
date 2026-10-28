@@ -1,1 +1,1 @@
-<img width="100%" src="https://github-readme-stats-alpha-lilac-31.vercel.app/api/top-langs/?username=ibrala&layout=compact&langs_count=10&theme=dark&bg_color=0d1117&hide_border=true&card_width=700&v=12" alt="Most Used Languages" />
+<img width="100%" src="https://github-readme-stats-alpha-lilac-31.vercel.app/api/top-langs/?username=ibrala&layout=compact&langs_count=10&theme=dark&bg_color=0d1117&hide_border=true&card_width=700&v=16" alt="Most Used Languages" />
